@@ -1,4 +1,4 @@
-# Laravel 11 Filament 在聯絡人清單中顯示建立表單
+# Laravel 12 Filament 在聯絡人清單中顯示建立表單
 
 Filament 在聯絡人清單中顯示建立表單採用快速建立簡捷的 TALL（Tailwind CSS、Alpine.js、Laravel 和 Livewire）堆疊應用程式的工具組，可以在聯絡人清單同一個頁面，一一加入聯絡人資訊。
 
@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/yo0kKDb.gif)
+![](https://i.imgur.com/2KelQ4U.gif)
 > 輕鬆將人員加到你的聯絡人中
